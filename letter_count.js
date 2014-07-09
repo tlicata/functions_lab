@@ -1,3 +1,5 @@
+// Write a function that takes a string and counts
+// the number of occurences for each letter.
 var countLetters = function (word) {
     var counts = {};
     for (var i = 0; i < word.length; i++) {

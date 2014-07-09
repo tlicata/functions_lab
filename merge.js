@@ -1,3 +1,4 @@
+// Merge two sorted arrays into one longer sorted array.
 var merge = function (arrayOne, arrayTwo) {
     // Declare a variable that we will use to
     // hold the newly merged array.

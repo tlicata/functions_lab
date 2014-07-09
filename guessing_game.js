@@ -1,3 +1,8 @@
+// Have your program pick a random number between
+// 1 - 100. Prompt the user for guesses and compare
+// their guess to the random value.  Make them keep
+// guessing until they guess correctly.
+
 var readline = require("readline");
 
 var rl = readline.createInterface({
