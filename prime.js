@@ -49,7 +49,7 @@ check(17, true);
 check(19, true);
 check(23, true);
 check(29, true);
-check(30, false)
+check(30, false);
 check(31, true);
 check(37, true);
 check(41, true);
