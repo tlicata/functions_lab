@@ -11,6 +11,8 @@ var rl = readline.createInterface({
 });
 
 var rand = Math.floor(Math.random() * 100);
+// Uncomment the following line if you want to cheat!
+// console.log("rand: " + rand);
 
 var ask = function () {
     rl.question("Enter a guess between 1 - 100: ", function (answer) {
