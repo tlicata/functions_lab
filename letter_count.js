@@ -18,7 +18,7 @@ var countLetters = function (word) {
     return counts;
 };
 
-var results = countLetters("all sorts of cool stuff");
+var results = countLetters("apple");
 for (var key in results) {
     console.log(key + " - " + results[key]);
 }
